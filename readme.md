@@ -67,27 +67,27 @@ Học một điều thật sâu tốt hơn là học mỗi thứ một chút, đ
 ### 18. Tập trung vào các nguyên tắc cơ bản trước
 Các nguyên tắc cơ bản của lập trình là vô giá, và bạn sẽ sử dụng chúng bất kể bạn làm gì khi lập trình. Tập trung vào việc có kiến ​​thức vững chắc về vòng lặp, điều kiện, hàm, kiểu dữ liệu, và (trong hầu hết các ngôn ngữ) lập trình hướng đối tượng trước khi tiếp tục học về các thư viện tuyệt vời mà mọi người đang nói đến. Sẽ dễ dàng hơn nhiều khi học thư viện đó nếu bạn hiểu các nguyên tắc cơ bản. Các nguyên tắc cũng sẽ có ở cả ngôn ngữ này và ngôn ngữ khác, vì vậy bạn chỉ phải học chúng một lần - sau đó nó chỉ còn phụ thuộc vào cú pháp!
 
-### 19. Làm tốt việc giải quyết các vấn đè
+### 19. Làm tốt việc giải quyết các vấn đề
 Giải quyết vấn đề là cơ bản nhất đằng sau việc lập trình! Làm tốt việc này ở đây là rất quan trọng. Phân tích các vấn đề, viết code trên giấy và chia nhỏ các vấn đề có thể thực sự giúp giải quyết vấn đề. Điều mà đôi khi tôi thấy với các nhà phát triển mới là họ tiếp cận lập trình như một vấn đề nghiên cứu thay vì một giải quyết vấn đề trong dự án - nếu họ Google đủ tốt, thì họ sẽ có một giải pháp. Đúng là, Google và Stack Overflow là siêu hữu ích, nhưng hãy dựa vào chính mình. Hãy thử một vài cách khác nhau trước khi tìm hiểu nó. Hoặc, nghiên cứu các phần nhỏ của vấn đề thay vì chính vấn đề - tức là "biến một chuỗi thành một mảng JavaScript" thay vì "đảo chuỗi trong JavaScript".
 
 ### 20. Làm tốt việc nghiên cứu
-Một trong những điều lớn nhất để tìm hiểu là làm thế nào để tìm câu trả lời hay cho câu hỏi của bạn hoặc để tìm hiểu các tính năng mới của ngôn ngữ hoặc thư viện của bạn. Việc sử dụng Google rất quan trọng, vì vậy hãy tham gia cộng đồng và đăng ký tài nguyên. Mẫu Google mà tôi thường sử dụng là "ngôn ngữ / khung / thư viện sự cố" trong ít từ nhất có thể và không có phụ trang. Vì vậy, "sắp xếp mảng JavaScript", "xoay phần tử CSS" hoặc "tạo bộ định tuyến Vue".
+Một trong những điều lớn nhất phảo học là làm thế nào để tìm câu trả lời hay cho câu hỏi của bạn hoặc để tìm hiểu các tính năng mới của ngôn ngữ hoặc thư viện của bạn. Việc sử dụng Google rất quan trọng, vì vậy hãy tham gia cộng đồng và theo dõi các nguồn tài nguyên. Một mẫu trên Google mà tôi thường sử dụng là "vấn đề về ngôn ngữ / framework / library" trong ít từ nhất có thể và không có các từ thừa. Vì dụ, "sắp xếp mảng JavaScript", "xoay phần tử CSS" hoặc "tạo router Vue".
 
 ### 21. Xây dựng các dự án bạn yêu thích
-Khi bạn đang học, bạn sẽ xây dựng các dự án khác nhau để thực hành (và thể hiện) các kỹ năng của bạn. Chọn ý tưởng dự án thú vị với bạn; bạn sẽ có nhiều khả năng để hoàn thành chúng và muốn đưa công việc vào chúng. Có liên quan, hoàn thành các dự án đó. Một vài dự án thành công thực sự tốt là cách ấn tượng hơn nhiều so với một nửa số đã hoàn thành!
+Khi bạn đang học, bạn sẽ xây dựng các dự án khác nhau để thực hành (và thể hiện) các kỹ năng của bạn. Chọn ý tưởng dự án thú vị với bạn; bạn sẽ có nhiều khả năng để hoàn thành chúng và muốn đưa chúng vào công việc. Liên quan một chút, hãy hoàn thành các dự án đó. Một vài dự án thực sự thành công là cách ấn tượng hơn nhiều so với việc đã hoàn thành một nửa!
 
-### 22. So sánh bản thân với chính bạn
-Có rất nhiều người học cách viết mã ở đó. Đừng so sánh sự tiến bộ của bạn với người khác, thay vì so sánh bản thân với bạn trước đó và tập trung vào sự phát triển của riêng bạn.
+### 22. So sánh bản thân với chính mình
+Có rất nhiều người học cách viết code ở đó. Đừng so sánh sự tiến bộ của bạn với người khác, thay vì so sánh bản thân với bạn trước đó và tập trung vào sự phát triển của riêng bạn.
 
 ### 23. Thực hiện một loạt các thách thức về mã
 Thực hiện các thử thách mã nhanh có thể thực sự giúp củng cố các nguyên tắc cơ bản. Chúng rất tuyệt vời để giải quyết vấn đề và thực hành cho các cuộc phỏng vấn. Tôi đăng một bài trên Twitter mỗi ngày với hashtag #CodingPuzzle nếu bạn muốn người khác giải quyết chúng!
 
 
 ### 24. Kỷ niệm chiến thắng của bạn
-Học lập trình có thể là một quá trình thực sự khó khăn, vì vậy khi bạn hoàn thành một cái gì đó, ngay cả khi nó nhỏ, hãy ăn mừng nó! Tôi theo dõi chiến thắng của mình trong Google Keep, vì vậy, nếu tôi có một ngày tồi tệ, tôi có thể quay lại những chiến thắng đó và nhớ chúng!
+Học lập trình có thể là một quá trình thực sự khó khăn, vì khi bạn hoàn thành một cái gì đó, ngay cả khi nó nhỏ, hãy ăn mừng nó! Tôi theo dõi chiến thắng của mình trong Google Keep, vì vậy, nếu tôi có một ngày tồi tệ, tôi có thể quay lại những chiến thắng đó và nhớ chúng!
 
 ### 25. Lập trình thật tuyệt vời
-Lập trình thực sự tuyệt vời vì bạn có thể xây dựng mọi thứ. Tôi luôn quay trở lại câu nói Sandi Metz này:
+Lập trình thực sự tuyệt vời vì bạn có thể xây dựng lên mọi thứ. Tôi luôn quay trở lại câu nói Sandi Metz này:
 
 ```
 Those of us whose work is to write software are incredibly lucky. Building software is a guiltless pleasure because we get to use our creative energy to get things done. We have arranged our lives to have it both ways; we can enjoy the pure act of writing code in sure knowledge that the code we write has use. We produce things that matter. We are modern craftspeople, building structures that make up present-day reality, and no less than bricklayers or bridge builders, we take justifiable pride in our accomplishments.
