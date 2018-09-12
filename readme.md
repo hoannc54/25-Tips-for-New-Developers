@@ -53,24 +53,24 @@ Cố gắng khi bạn đang học là rất quan trọng để bạn có thể t
 Lập trình khó, và tìm kiếm những câu trả lời đúng không thể thấy ngay được. Một trong những thời điểm then chốt đối với con đường học lập trình của tôi là thất bại khi tìm lời giải Sudoku. Nó có thể là khó khăn để điều chỉnh để không nhận được tất cả mọi thứ ngay lập tức và nhìn thấy những thông báo lỗi, nhưng đó là một phần rất lớn của lập trình.
 
 ### 14. Yêu các thông báo lỗi của bạn
-Thông báo lỗi là siêu hữu ích, nhưng khi bạn đang bắt đầu ra rằng thông báo lỗi màu đỏ có thể đáng sợ! Một bước tiến lớn cần thực hiện là đọc qua các thông điệp đó, hiểu chúng, và sau đó sử dụng chúng để giải quyết vấn đề. Trong thực tế, bạn sẽ nhận được đến một điểm mà một chương trình âm thầm không sẽ khó chịu hơn nhiều so với một thông báo lỗi hữu ích!
+Thông báo lỗi là thứ cực kì có ích, nhưng khi nó bắt đầu đưa ra thông báo lỗi màu đỏ có thể bạn thấy đáng sợ! Một bước tiến quan trọng cần thực hiện là đọc qua các thông báo đó, hiểu chúng, và sau đó sử dụng chúng để giải quyết vấn đề. Trong thực tế, bạn sẽ hiểu một điều là một chương trình lỗi một cách âm thầm sẽ khó chịu hơn nhiều so với một thông báo lỗi hữu ích!
 
 ### 15. Một số ngôn ngữ lập trình dễ hơn những ngôn ngữ khác
-Không có câu trả lời đúng cho ngôn ngữ lập trình nào cần học đầu tiên; tuy nhiên, một số sẽ dễ nhận hơn. Ba đầu của tôi là Python, Ruby và JavaScript vì cả ba đều có một cộng đồng lớn phía sau chúng, có cú pháp đơn giản hơn và được diễn giải, vì vậy bạn không cần phải trải qua quá trình biên dịch.
+Không có câu trả lời đúng cho ngôn ngữ lập trình nào cần học đầu tiên; tuy nhiên, có một số sẽ dễ tiếp thu hơn. Ba ngôn ngữ top đầu của tôi là Python, Ruby và JavaScript vì cả ba đều có các cộng đồng lớn phía sau chúng, có cú pháp đơn giản hơn và được diễn giải, vì vậy bạn không cần phải trải qua quá trình biên dịch.
 
 ### 16. Bạn không cần biết mọi thứ
-Nó là thẳng lên 100% không thể biết tất cả mọi thứ về lập trình. Không ai biết mọi ngôn ngữ lập trình, mọi phương pháp duy nhất ở đó, mọi thư viện và khung công tác, hoặc giải pháp hoàn hảo cho mọi vấn đề. Đừng lo lắng về việc học tất cả mọi thứ, chỉ cần tập trung vào những gì bạn biết và mở rộng điều đó.
+Nó thẳng là không thể biết tất cả mọi thứ về lập trình. Không ai biết mọi ngôn ngữ lập trình, mỗi hàm trong đó, mọi thư viện và framework, hoặc các giải pháp hoàn hảo cho mọi vấn đề. Đừng lo lắng về việc học tất cả mọi thứ, chỉ cần tập trung vào những gì bạn biết và mở rộng điều đó.
 
-### 17. Độ sâu trên bề rộng
-Học một điều sâu hơn là tốt hơn là học một chút về rất nhiều thứ, đặc biệt là lúc đầu. Kiến thức chuyên sâu đó sẽ tiếp tục và làm cho việc học điều tiếp theo dễ dàng hơn. Đặt người mù vào, vì vậy bạn không bị cám dỗ để bỏ những gì bạn đang học và chuyển sang một cái gì đó mới.
+### 17. học sâu tốt hơn học rộng
+Học một điều thật sâu tốt hơn là học mỗi thứ một chút, đặc biệt là lúc đầu. Kiến thức chuyên sâu đó sẽ giúp cho việc học điều tiếp theo dễ dàng hơn. Tự coi mình như người mù, bạn không bị cám dỗ khiến bạn bỏ qua những gì bạn đang học và chuyển sang một cái gì đó mới.
 
 ### 18. Tập trung vào các nguyên tắc cơ bản trước
-Các nguyên tắc cơ bản của lập trình là vô giá, và bạn sẽ sử dụng chúng bất kể bạn làm gì với lập trình. Tập trung vào việc có kiến ​​thức vững chắc về vòng lặp, điều kiện, chức năng, kiểu dữ liệu, và (trong hầu hết các ngôn ngữ) lập trình hướng đối tượng trước khi tiếp tục học về thư viện tuyệt vời mà mọi người đang nói đến. Sẽ dễ dàng hơn nhiều khi học thư viện đó khi bạn biết các nguyên tắc cơ bản thực sự tốt. Họ cũng sẽ chuyển từ ngôn ngữ này sang ngôn ngữ khác, vì vậy bạn chỉ phải thực sự học chúng một lần - sau đó nó chỉ là cú pháp!
+Các nguyên tắc cơ bản của lập trình là vô giá, và bạn sẽ sử dụng chúng bất kể bạn làm gì khi lập trình. Tập trung vào việc có kiến ​​thức vững chắc về vòng lặp, điều kiện, hàm, kiểu dữ liệu, và (trong hầu hết các ngôn ngữ) lập trình hướng đối tượng trước khi tiếp tục học về các thư viện tuyệt vời mà mọi người đang nói đến. Sẽ dễ dàng hơn nhiều khi học thư viện đó nếu bạn hiểu các nguyên tắc cơ bản. Các nguyên tắc cũng sẽ có ở cả ngôn ngữ này và ngôn ngữ khác, vì vậy bạn chỉ phải học chúng một lần - sau đó nó chỉ còn phụ thuộc vào cú pháp!
 
-### 19. Nhận giải quyết vấn đề tốt
-Giải quyết vấn đề là cơ sở đằng sau lập trình! Bắt tốt hơn ở đây là rất quan trọng. Giải quyết các câu đố, viết mã trên giấy và các vấn đề chia nhỏ có thể thực sự giúp giải quyết vấn đề. Điều mà đôi khi tôi thấy với các nhà phát triển mới là họ tiếp cận lập trình như một vấn đề nghiên cứu thay vì một dự án giải quyết vấn đề - nếu họ Google đủ tốt, thì họ sẽ có một giải pháp. Có, Google và Stack Overflow là siêu hữu ích, nhưng dựa vào chính mình đôi khi quá. Hãy thử một vài cách khác nhau trước khi nghiên cứu nó. Hoặc, nghiên cứu các phần nhỏ của vấn đề thay vì chính vấn đề - tức là "biến một chuỗi thành một mảng JavaScript" thay vì "JavaScript chuỗi ngược".
+### 19. Làm tốt việc giải quyết các vấn đè
+Giải quyết vấn đề là cơ bản nhất đằng sau việc lập trình! Làm tốt việc này ở đây là rất quan trọng. Phân tích các vấn đề, viết code trên giấy và chia nhỏ các vấn đề có thể thực sự giúp giải quyết vấn đề. Điều mà đôi khi tôi thấy với các nhà phát triển mới là họ tiếp cận lập trình như một vấn đề nghiên cứu thay vì một giải quyết vấn đề trong dự án - nếu họ Google đủ tốt, thì họ sẽ có một giải pháp. Đúng là, Google và Stack Overflow là siêu hữu ích, nhưng hãy dựa vào chính mình. Hãy thử một vài cách khác nhau trước khi tìm hiểu nó. Hoặc, nghiên cứu các phần nhỏ của vấn đề thay vì chính vấn đề - tức là "biến một chuỗi thành một mảng JavaScript" thay vì "đảo chuỗi trong JavaScript".
 
-### 20. Học giỏi nghiên cứu
+### 20. Làm tốt việc nghiên cứu
 Một trong những điều lớn nhất để tìm hiểu là làm thế nào để tìm câu trả lời hay cho câu hỏi của bạn hoặc để tìm hiểu các tính năng mới của ngôn ngữ hoặc thư viện của bạn. Việc sử dụng Google rất quan trọng, vì vậy hãy tham gia cộng đồng và đăng ký tài nguyên. Mẫu Google mà tôi thường sử dụng là "ngôn ngữ / khung / thư viện sự cố" trong ít từ nhất có thể và không có phụ trang. Vì vậy, "sắp xếp mảng JavaScript", "xoay phần tử CSS" hoặc "tạo bộ định tuyến Vue".
 
 ### 21. Xây dựng các dự án bạn yêu thích
